@@ -43,7 +43,7 @@ Masukkan jawaban pada dialog. Dokumentasi dapat dilihat <a href="https://github.
 Masukkan pertanyaan test dan cek hasilnya. Dokumentasi dapat dilihat <a href="https://github.com/Adam21M/Project-Massive-Collab-AAI-Group-16/blob/main/Dokumentasi/Testing.png">disini</a>.
 
 ## Prototype
-Dapat diakses <a href="https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-427a9f7d-f34b-49df-a5f8-5b8b7c7f91de%3A%3Aa615be3f-76fc-461d-b4c1-83d8b632d20e&integrationID=15ca6a42-1f3e-4d50-bb69-d4030604d5d1&region=us-south&serviceInstanceID=427a9f7d-f34b-49df-a5f8-5b8b7c7f91de">disini</a>.
+Pada IBM Cloud. Dapat diakses <a href="https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-427a9f7d-f34b-49df-a5f8-5b8b7c7f91de%3A%3Aa615be3f-76fc-461d-b4c1-83d8b632d20e&integrationID=15ca6a42-1f3e-4d50-bb69-d4030604d5d1&region=us-south&serviceInstanceID=427a9f7d-f34b-49df-a5f8-5b8b7c7f91de">disini</a>.
 
 ## Integration
 Embed Code pada Website. Dapat diakses <a href="https://github.com/Adam21M/Project-Massive-Collab-AAI-Group-16/blob/main/Embed%20Code/index.html">disini</a>.
