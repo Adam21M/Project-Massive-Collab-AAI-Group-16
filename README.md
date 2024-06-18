@@ -26,7 +26,7 @@ Solusi : sebuah chatbot kesehatan yang dirancang untuk memberikan jawaban instan
 
 ### 1. Dataset
 - Data Collection <br />
-Kami menemukan data kami di <a href="https://www.kaggle.com/datasets/jpmiller/layoutlm/data">Kaggle</a>.
+Kami menemukan data di <a href="https://www.kaggle.com/datasets/jpmiller/layoutlm/data">Kaggle</a>.
 - Data Cleaning <br />
 Kami mengubah data menjadi siap digunakan pada platform. Dapat diakses <a href="https://github.com/Adam21M/Project-Massive-Collab-AAI-Group-16/blob/main/Dataset%20Chatbot/Dataset%20Chatbot.docx">disini</a>.
 
