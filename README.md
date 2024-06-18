@@ -36,7 +36,7 @@ Kami mengubah data menjadi siap digunakan pada platform. Dapat diakses <a href="
 Kami menggunakan IBM Cloud: Watsonx Assisant
 
 - Pembangunan Model <br />
-Masukkan pertanyaan pada intent. Dokumentasi dapat dilihat <a href="https://github.com/Adam21M/Project-Massive-Collab-AAI-Group-16/blob/main/Dokumentasi/Membuat%20Intents.png">disini</a>.
+Masukkan pertanyaan pada intent. Dokumentasi dapat dilihat <a href="https://github.com/Adam21M/Project-Massive-Collab-AAI-Group-16/blob/main/Dokumentasi/Membuat%20Intents.png">disini</a>.<br />
 Masukkan jawaban pada dialog. Dokumentasi dapat dilihat <a href="https://github.com/Adam21M/Project-Massive-Collab-AAI-Group-16/blob/main/Dokumentasi/Membuat%20Dialog.png">disini</a>.
 
 - Model Testing <br />
